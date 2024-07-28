@@ -1,19 +1,23 @@
 h1 {
   font-size: 24px;
   background-color: deepskyblue;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   text-align: center;
-  color:white;
+  color: white;
 }
 
 #main_page {
   text-align: center;
+}
+#main_page img {
+  border-radius: 30px;
 }
 
 p {
   font-size: 40px;
   text-align: center;
   color: rgb(6, 146, 146);
+  margin: 3px;
 }
 
 /*# sourceMappingURL=style.css.map */
